@@ -57,7 +57,7 @@ So, here we collate all the R codes used to conduct some of the analysis in the 
 
     ├── README.md
 
-    └── CoTreat.Rproj
+    └── Oil-price-corruption-and-growth.Rproj
 
 -   Using RStudio open "Oil-price-corruption-and-growth.Rproj" file in the main project directory.
 
