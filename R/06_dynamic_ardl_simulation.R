@@ -115,7 +115,7 @@ dynardl.model_cor1 <- dynardl(GDPG ~ LOILPBRENT + CORWB + CWOILPBRENT + AGRGDP +
 
 
 #Let's save this
-png('Graphs/Corruptio increase.png')
+png('Graphs/Corruption increase.png')
 
 #Spike
 dynardl.simulation.plot(dynardl.model_cor1, 
