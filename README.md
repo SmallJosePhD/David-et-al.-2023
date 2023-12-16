@@ -10,7 +10,7 @@ This study employs the recently proposed bootstrap autoregressive distributed la
 
 The paper has been accepted for publication in the [**Economic Alternatives**](https://www.unwe.bg/eajournal/en) journal.
 
-A preprint copy is assessable on [ResearchGate](http://dx.doi.org/10.13140/RG.2.2.32652.28800)
+A preprint copy is assessable on [ResearchGate](http://dx.doi.org/10.13140/RG.2.2.32652.28800/1)
 
 &nbsp;
 
